@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/ReplicationTool">
+        <file>png/open.png</file>
+        <file>png/exit.png</file>
+        <file>png/save.png</file>
+        <file>png/saveAs.png</file>
+        <file>png/recent.png</file>
+        <file>png/check.ico</file>
+        <file>png/checkOTP.ico</file>
+        <file>png/cleanOTP.ico</file>
+        <file>png/connect.ico</file>
+        <file>png/disconnect.ico</file>
+        <file>png/download.ico</file>
+        <file>png/downloadOTP.ico</file>
+        <file>png/erase.ico</file>
+        <file>png/read.ico</file>
+        <file>png/readOTP.ico</file>
+        <file>png/editable.ico</file>
+    </qresource>
+</RCC>
